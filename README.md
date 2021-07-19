@@ -6,6 +6,7 @@ All information published will be used for [Optional](https://optional.finance),
 
 Information that will be posted will be:
 - Twitter Handle
+- Planned strategy
 - Address of the Social Token (Vault)
 - Signature of the Manager
   - To prove the manager is the one posting it.
