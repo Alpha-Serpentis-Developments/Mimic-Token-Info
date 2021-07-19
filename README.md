@@ -20,3 +20,9 @@ Vault Version | Supported
 --------------|---------
 Mercury (v0.1.2) | :x:
 Venus (v0.2.x) | :heavy_check_mark:
+
+# Notice
+
+**Social tokens listed is NOT an endorsement by Alpha Serpentis Developments nor Optional or any other party whatsoever.**
+
+**Options bear significant risks and may not be suitable for everyone. Risks may include: social traders acting against the best interests of its depositors, market volatility, exercise, underlying risks with Opyn contracts, and underlying risks with Optional contracts.**
