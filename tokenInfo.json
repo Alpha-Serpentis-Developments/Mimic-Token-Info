@@ -7,5 +7,14 @@
 		"twitterHandle": "AlphaSerpentis_",
 		"plannedStrategy": "The WETH Covered Call Strategy is a team-managed vault by Optional. The current plan consists of writing weekly call options between +20% to +25%, depending on market conditions and depositor sentiment.",
 		"signature": "N/A"
+	},
+	{
+		"managerAddress": "0x9f3Ef50Ea64ADAD5B33F1F8222760CFBF42007F7",
+		"vaultAddress": "0xCc19581266D66Eb2Ee3E72590Cc974c826B778f0",
+		"network": "kovan",
+		"version": "mercury",
+		"twitterHandle": "AlphaSerpentis_",
+		"plannedStrategy": "Test",
+		"signature": "N/A"
 	}
 ]
